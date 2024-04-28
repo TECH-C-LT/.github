@@ -1,1 +1,1 @@
-# .github
+# TECH.C. LTサークル
